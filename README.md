@@ -1,2 +1,1 @@
-# CISC121
-It is a test project.
+# Queen's Student Page
